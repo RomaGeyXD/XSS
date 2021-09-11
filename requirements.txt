@@ -1,0 +1,5 @@
+requests
+argparse
+http.server
+os
+urllib.parse
